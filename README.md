@@ -15,7 +15,7 @@
 ### Готовые сборки (Windows)
 | Версия | Скачать | Размер |
 |--------|---------|--------|
-| **SecureVPN Browser Pro** | [⬇️ Скачать EXE](https://github.com/MRGenius255/securevpn-browser/releases/latest) | ~85 MB |
+| **SecureVPN Browser Pro** | [⬇️ Скачать EXE](https://github.com/MRGenius255/Securebrowser/releases/latest) | ~85 MB |
 
 > **Важно**: При первом запуске может потребоваться разрешение в брандмауэре Windows
 
