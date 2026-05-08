@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
 
-![SecureVPN Browser Screenshot](screenshot.png)
+![SecureVPN Browser Screenshot](Screenshot.png)
 
 ## 📦 Скачать
 
